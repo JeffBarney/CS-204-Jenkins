@@ -2,8 +2,6 @@ import java.util.UUID;
 
 class Calculator {
 	
-	random text to break the project... again...
-
     Calculator(){
 
     }
