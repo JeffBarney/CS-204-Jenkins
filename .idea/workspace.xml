@@ -30,8 +30,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="310">
+              <caret line="81" column="47" selection-start-line="81" selection-start-column="47" selection-end-line="81" selection-end-column="47" />
+              <folding>
+                <element signature="e#879#880#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -184,7 +188,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="746" y="0" width="764" height="969" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -194,10 +197,10 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2471591" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="CheckStyle" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.4996573" weight="0.3321386" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.4996573" visible="true" weight="0.3321386" />
       <window_info anchor="bottom" id="Terminal" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5003427" side_tool="true" weight="0.3289941" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32855436" />
+      <window_info anchor="bottom" id="Messages" weight="0.32855436" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -235,8 +238,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="310">
+          <caret line="81" column="47" selection-start-line="81" selection-start-column="47" selection-end-line="81" selection-end-column="47" />
+          <folding>
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
